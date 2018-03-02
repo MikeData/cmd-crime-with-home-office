@@ -9,7 +9,7 @@ Anything before that and the inconsistencies in labels, codes and "outcomes" get
 
 
 ### Financial vs Calendar Years
-This data uses calendar years and numeric only quarters. So a time|type of 2017/2018|1 which may or may not equate to 2017 Q4, unsure so have included both versions.
+This data uses calendar years and numeric only quarters. So a time|type of 2017/2018|1 which may or may not equate to 2017 Q2, unsure so have included both versions.
 
 I've put the Q in the financial quarters version regardless (i.e 1 = Q1) as that seems to be our convention.
 
