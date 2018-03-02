@@ -25,3 +25,7 @@ There are  likely to be other causes of sparsity in here as well.
 
 The "Offences" dimension has a hierarchy. Can't see an obvious pattern in the codes but it's in separate columns. Have included a hierachy.cypher file in this repo that'll build it for cmd.
 
+
+### Codelists
+
+included some codelist CL_ files but if changed make sure to keep in sync with recipeAPI/hierarchy.cypher and loadfile.
