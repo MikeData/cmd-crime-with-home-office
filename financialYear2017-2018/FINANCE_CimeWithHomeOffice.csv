@@ -1,4 +1,4 @@
-V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
+V4_0,calendar-years,time,police-force-geography,geography,offence_codelist,offence
 2,Quarters,2017/18 Q1,E23000036,Avon and Somerset,80,Absconding from lawful custody
 4,Quarters,2017/18 Q1,E23000036,Avon and Somerset,71,Abuse of children through sexual exploitation
 1,Quarters,2017/18 Q1,E23000036,Avon and Somerset,73,Abuse of position of trust of a sexual nature
@@ -56,7 +56,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 14,Quarters,2017/18 Q1,E23000036,Avon and Somerset,33,"Going equipped for stealing, etc"
 16,Quarters,2017/18 Q1,E23000036,Avon and Somerset,54,Handling stolen goods
 1002,Quarters,2017/18 Q1,E23000036,Avon and Somerset,8L,Harassment
-2,Quarters,2017/18 Q1,E23000036,Avon and Somerset,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q1,E23000036,Avon and Somerset,1-4.1-4.10-4.2,Homicide
 9,Quarters,2017/18 Q1,E23000036,Avon and Somerset,23,Incest or familial sexual offences
 1,Quarters,2017/18 Q1,E23000036,Avon and Somerset,4.3,Intentional destruction of a viable unborn child
 490,Quarters,2017/18 Q1,E23000036,Avon and Somerset,126,Interfering with a motor vehicle
@@ -184,7 +184,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 6,Quarters,2017/18 Q1,E23000026,Bedfordshire,33,"Going equipped for stealing, etc"
 18,Quarters,2017/18 Q1,E23000026,Bedfordshire,54,Handling stolen goods
 389,Quarters,2017/18 Q1,E23000026,Bedfordshire,8L,Harassment
-0,Quarters,2017/18 Q1,E23000026,Bedfordshire,1/4.1/4.10/4.2,Homicide
+0,Quarters,2017/18 Q1,E23000026,Bedfordshire,1-4.1-4.10-4.2,Homicide
 0,Quarters,2017/18 Q1,E23000026,Bedfordshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000026,Bedfordshire,4.3,Intentional destruction of a viable unborn child
 151,Quarters,2017/18 Q1,E23000026,Bedfordshire,126,Interfering with a motor vehicle
@@ -312,7 +312,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 13,Quarters,2017/18 Q1,E23000023,Cambridgeshire,33,"Going equipped for stealing, etc"
 8,Quarters,2017/18 Q1,E23000023,Cambridgeshire,54,Handling stolen goods
 359,Quarters,2017/18 Q1,E23000023,Cambridgeshire,8L,Harassment
-2,Quarters,2017/18 Q1,E23000023,Cambridgeshire,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q1,E23000023,Cambridgeshire,1-4.1-4.10-4.2,Homicide
 7,Quarters,2017/18 Q1,E23000023,Cambridgeshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000023,Cambridgeshire,4.3,Intentional destruction of a viable unborn child
 94,Quarters,2017/18 Q1,E23000023,Cambridgeshire,126,Interfering with a motor vehicle
@@ -440,7 +440,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 11,Quarters,2017/18 Q1,E23000006,Cheshire,33,"Going equipped for stealing, etc"
 18,Quarters,2017/18 Q1,E23000006,Cheshire,54,Handling stolen goods
 608,Quarters,2017/18 Q1,E23000006,Cheshire,8L,Harassment
-0,Quarters,2017/18 Q1,E23000006,Cheshire,1/4.1/4.10/4.2,Homicide
+0,Quarters,2017/18 Q1,E23000006,Cheshire,1-4.1-4.10-4.2,Homicide
 3,Quarters,2017/18 Q1,E23000006,Cheshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000006,Cheshire,4.3,Intentional destruction of a viable unborn child
 113,Quarters,2017/18 Q1,E23000006,Cheshire,126,Interfering with a motor vehicle
@@ -568,7 +568,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 6,Quarters,2017/18 Q1,E23000013,Cleveland,33,"Going equipped for stealing, etc"
 12,Quarters,2017/18 Q1,E23000013,Cleveland,54,Handling stolen goods
 226,Quarters,2017/18 Q1,E23000013,Cleveland,8L,Harassment
-0,Quarters,2017/18 Q1,E23000013,Cleveland,1/4.1/4.10/4.2,Homicide
+0,Quarters,2017/18 Q1,E23000013,Cleveland,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q1,E23000013,Cleveland,23,Incest or familial sexual offences
 1,Quarters,2017/18 Q1,E23000013,Cleveland,4.3,Intentional destruction of a viable unborn child
 196,Quarters,2017/18 Q1,E23000013,Cleveland,126,Interfering with a motor vehicle
@@ -696,7 +696,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 4,Quarters,2017/18 Q1,E23000002,Cumbria,33,"Going equipped for stealing, etc"
 7,Quarters,2017/18 Q1,E23000002,Cumbria,54,Handling stolen goods
 151,Quarters,2017/18 Q1,E23000002,Cumbria,8L,Harassment
-0,Quarters,2017/18 Q1,E23000002,Cumbria,1/4.1/4.10/4.2,Homicide
+0,Quarters,2017/18 Q1,E23000002,Cumbria,1-4.1-4.10-4.2,Homicide
 2,Quarters,2017/18 Q1,E23000002,Cumbria,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000002,Cumbria,4.3,Intentional destruction of a viable unborn child
 19,Quarters,2017/18 Q1,E23000002,Cumbria,126,Interfering with a motor vehicle
@@ -824,7 +824,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 4,Quarters,2017/18 Q1,E23000018,Derbyshire,33,"Going equipped for stealing, etc"
 15,Quarters,2017/18 Q1,E23000018,Derbyshire,54,Handling stolen goods
 237,Quarters,2017/18 Q1,E23000018,Derbyshire,8L,Harassment
-5,Quarters,2017/18 Q1,E23000018,Derbyshire,1/4.1/4.10/4.2,Homicide
+5,Quarters,2017/18 Q1,E23000018,Derbyshire,1-4.1-4.10-4.2,Homicide
 8,Quarters,2017/18 Q1,E23000018,Derbyshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000018,Derbyshire,4.3,Intentional destruction of a viable unborn child
 272,Quarters,2017/18 Q1,E23000018,Derbyshire,126,Interfering with a motor vehicle
@@ -952,7 +952,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 9,Quarters,2017/18 Q1,E23000035,Devon and Cornwall,33,"Going equipped for stealing, etc"
 18,Quarters,2017/18 Q1,E23000035,Devon and Cornwall,54,Handling stolen goods
 741,Quarters,2017/18 Q1,E23000035,Devon and Cornwall,8L,Harassment
-7,Quarters,2017/18 Q1,E23000035,Devon and Cornwall,1/4.1/4.10/4.2,Homicide
+7,Quarters,2017/18 Q1,E23000035,Devon and Cornwall,1-4.1-4.10-4.2,Homicide
 28,Quarters,2017/18 Q1,E23000035,Devon and Cornwall,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000035,Devon and Cornwall,4.3,Intentional destruction of a viable unborn child
 130,Quarters,2017/18 Q1,E23000035,Devon and Cornwall,126,Interfering with a motor vehicle
@@ -1080,7 +1080,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 4,Quarters,2017/18 Q1,E23000039,Dorset,33,"Going equipped for stealing, etc"
 6,Quarters,2017/18 Q1,E23000039,Dorset,54,Handling stolen goods
 339,Quarters,2017/18 Q1,E23000039,Dorset,8L,Harassment
-1,Quarters,2017/18 Q1,E23000039,Dorset,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q1,E23000039,Dorset,1-4.1-4.10-4.2,Homicide
 0,Quarters,2017/18 Q1,E23000039,Dorset,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000039,Dorset,4.3,Intentional destruction of a viable unborn child
 21,Quarters,2017/18 Q1,E23000039,Dorset,126,Interfering with a motor vehicle
@@ -1208,7 +1208,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 8,Quarters,2017/18 Q1,E23000008,Durham,33,"Going equipped for stealing, etc"
 13,Quarters,2017/18 Q1,E23000008,Durham,54,Handling stolen goods
 1321,Quarters,2017/18 Q1,E23000008,Durham,8L,Harassment
-0,Quarters,2017/18 Q1,E23000008,Durham,1/4.1/4.10/4.2,Homicide
+0,Quarters,2017/18 Q1,E23000008,Durham,1-4.1-4.10-4.2,Homicide
 3,Quarters,2017/18 Q1,E23000008,Durham,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000008,Durham,4.3,Intentional destruction of a viable unborn child
 156,Quarters,2017/18 Q1,E23000008,Durham,126,Interfering with a motor vehicle
@@ -1336,7 +1336,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 3,Quarters,2017/18 Q1,W15000004,Dyfed-Powys,33,"Going equipped for stealing, etc"
 4,Quarters,2017/18 Q1,W15000004,Dyfed-Powys,54,Handling stolen goods
 389,Quarters,2017/18 Q1,W15000004,Dyfed-Powys,8L,Harassment
-1,Quarters,2017/18 Q1,W15000004,Dyfed-Powys,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q1,W15000004,Dyfed-Powys,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q1,W15000004,Dyfed-Powys,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,W15000004,Dyfed-Powys,4.3,Intentional destruction of a viable unborn child
 25,Quarters,2017/18 Q1,W15000004,Dyfed-Powys,126,Interfering with a motor vehicle
@@ -1464,7 +1464,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 10,Quarters,2017/18 Q1,E23000028,Essex,33,"Going equipped for stealing, etc"
 19,Quarters,2017/18 Q1,E23000028,Essex,54,Handling stolen goods
 854,Quarters,2017/18 Q1,E23000028,Essex,8L,Harassment
-5,Quarters,2017/18 Q1,E23000028,Essex,1/4.1/4.10/4.2,Homicide
+5,Quarters,2017/18 Q1,E23000028,Essex,1-4.1-4.10-4.2,Homicide
 13,Quarters,2017/18 Q1,E23000028,Essex,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000028,Essex,4.3,Intentional destruction of a viable unborn child
 370,Quarters,2017/18 Q1,E23000028,Essex,126,Interfering with a motor vehicle
@@ -1592,7 +1592,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 3,Quarters,2017/18 Q1,E23000037,Gloucestershire,33,"Going equipped for stealing, etc"
 11,Quarters,2017/18 Q1,E23000037,Gloucestershire,54,Handling stolen goods
 148,Quarters,2017/18 Q1,E23000037,Gloucestershire,8L,Harassment
-1,Quarters,2017/18 Q1,E23000037,Gloucestershire,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q1,E23000037,Gloucestershire,1-4.1-4.10-4.2,Homicide
 2,Quarters,2017/18 Q1,E23000037,Gloucestershire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000037,Gloucestershire,4.3,Intentional destruction of a viable unborn child
 199,Quarters,2017/18 Q1,E23000037,Gloucestershire,126,Interfering with a motor vehicle
@@ -1720,7 +1720,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 31,Quarters,2017/18 Q1,E23000005,Greater Manchester,33,"Going equipped for stealing, etc"
 14,Quarters,2017/18 Q1,E23000005,Greater Manchester,54,Handling stolen goods
 1884,Quarters,2017/18 Q1,E23000005,Greater Manchester,8L,Harassment
-34,Quarters,2017/18 Q1,E23000005,Greater Manchester,1/4.1/4.10/4.2,Homicide
+34,Quarters,2017/18 Q1,E23000005,Greater Manchester,1-4.1-4.10-4.2,Homicide
 10,Quarters,2017/18 Q1,E23000005,Greater Manchester,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000005,Greater Manchester,4.3,Intentional destruction of a viable unborn child
 992,Quarters,2017/18 Q1,E23000005,Greater Manchester,126,Interfering with a motor vehicle
@@ -1848,7 +1848,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 6,Quarters,2017/18 Q1,W15000002,Gwent,33,"Going equipped for stealing, etc"
 6,Quarters,2017/18 Q1,W15000002,Gwent,54,Handling stolen goods
 242,Quarters,2017/18 Q1,W15000002,Gwent,8L,Harassment
-2,Quarters,2017/18 Q1,W15000002,Gwent,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q1,W15000002,Gwent,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q1,W15000002,Gwent,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,W15000002,Gwent,4.3,Intentional destruction of a viable unborn child
 101,Quarters,2017/18 Q1,W15000002,Gwent,126,Interfering with a motor vehicle
@@ -1976,7 +1976,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 18,Quarters,2017/18 Q1,E23000030,Hampshire,33,"Going equipped for stealing, etc"
 38,Quarters,2017/18 Q1,E23000030,Hampshire,54,Handling stolen goods
 571,Quarters,2017/18 Q1,E23000030,Hampshire,8L,Harassment
-3,Quarters,2017/18 Q1,E23000030,Hampshire,1/4.1/4.10/4.2,Homicide
+3,Quarters,2017/18 Q1,E23000030,Hampshire,1-4.1-4.10-4.2,Homicide
 5,Quarters,2017/18 Q1,E23000030,Hampshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000030,Hampshire,4.3,Intentional destruction of a viable unborn child
 415,Quarters,2017/18 Q1,E23000030,Hampshire,126,Interfering with a motor vehicle
@@ -2104,7 +2104,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 20,Quarters,2017/18 Q1,E23000027,Hertfordshire,33,"Going equipped for stealing, etc"
 10,Quarters,2017/18 Q1,E23000027,Hertfordshire,54,Handling stolen goods
 380,Quarters,2017/18 Q1,E23000027,Hertfordshire,8L,Harassment
-1,Quarters,2017/18 Q1,E23000027,Hertfordshire,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q1,E23000027,Hertfordshire,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q1,E23000027,Hertfordshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000027,Hertfordshire,4.3,Intentional destruction of a viable unborn child
 337,Quarters,2017/18 Q1,E23000027,Hertfordshire,126,Interfering with a motor vehicle
@@ -2232,7 +2232,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 11,Quarters,2017/18 Q1,E23000012,Humberside,33,"Going equipped for stealing, etc"
 23,Quarters,2017/18 Q1,E23000012,Humberside,54,Handling stolen goods
 448,Quarters,2017/18 Q1,E23000012,Humberside,8L,Harassment
-2,Quarters,2017/18 Q1,E23000012,Humberside,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q1,E23000012,Humberside,1-4.1-4.10-4.2,Homicide
 3,Quarters,2017/18 Q1,E23000012,Humberside,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000012,Humberside,4.3,Intentional destruction of a viable unborn child
 207,Quarters,2017/18 Q1,E23000012,Humberside,126,Interfering with a motor vehicle
@@ -2360,7 +2360,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 8,Quarters,2017/18 Q1,E23000032,Kent,33,"Going equipped for stealing, etc"
 23,Quarters,2017/18 Q1,E23000032,Kent,54,Handling stolen goods
 1269,Quarters,2017/18 Q1,E23000032,Kent,8L,Harassment
-5,Quarters,2017/18 Q1,E23000032,Kent,1/4.1/4.10/4.2,Homicide
+5,Quarters,2017/18 Q1,E23000032,Kent,1-4.1-4.10-4.2,Homicide
 29,Quarters,2017/18 Q1,E23000032,Kent,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000032,Kent,4.3,Intentional destruction of a viable unborn child
 464,Quarters,2017/18 Q1,E23000032,Kent,126,Interfering with a motor vehicle
@@ -2488,7 +2488,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 10,Quarters,2017/18 Q1,E23000003,Lancashire,33,"Going equipped for stealing, etc"
 14,Quarters,2017/18 Q1,E23000003,Lancashire,54,Handling stolen goods
 1305,Quarters,2017/18 Q1,E23000003,Lancashire,8L,Harassment
-3,Quarters,2017/18 Q1,E23000003,Lancashire,1/4.1/4.10/4.2,Homicide
+3,Quarters,2017/18 Q1,E23000003,Lancashire,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q1,E23000003,Lancashire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000003,Lancashire,4.3,Intentional destruction of a viable unborn child
 333,Quarters,2017/18 Q1,E23000003,Lancashire,126,Interfering with a motor vehicle
@@ -2616,7 +2616,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 7,Quarters,2017/18 Q1,E23000021,Leicestershire,33,"Going equipped for stealing, etc"
 6,Quarters,2017/18 Q1,E23000021,Leicestershire,54,Handling stolen goods
 529,Quarters,2017/18 Q1,E23000021,Leicestershire,8L,Harassment
-3,Quarters,2017/18 Q1,E23000021,Leicestershire,1/4.1/4.10/4.2,Homicide
+3,Quarters,2017/18 Q1,E23000021,Leicestershire,1-4.1-4.10-4.2,Homicide
 18,Quarters,2017/18 Q1,E23000021,Leicestershire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000021,Leicestershire,4.3,Intentional destruction of a viable unborn child
 162,Quarters,2017/18 Q1,E23000021,Leicestershire,126,Interfering with a motor vehicle
@@ -2744,7 +2744,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 11,Quarters,2017/18 Q1,E23000020,Lincolnshire,33,"Going equipped for stealing, etc"
 23,Quarters,2017/18 Q1,E23000020,Lincolnshire,54,Handling stolen goods
 163,Quarters,2017/18 Q1,E23000020,Lincolnshire,8L,Harassment
-1,Quarters,2017/18 Q1,E23000020,Lincolnshire,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q1,E23000020,Lincolnshire,1-4.1-4.10-4.2,Homicide
 14,Quarters,2017/18 Q1,E23000020,Lincolnshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000020,Lincolnshire,4.3,Intentional destruction of a viable unborn child
 140,Quarters,2017/18 Q1,E23000020,Lincolnshire,126,Interfering with a motor vehicle
@@ -2872,7 +2872,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 5,Quarters,2017/18 Q1,E23000034,"London, City of",33,"Going equipped for stealing, etc"
 1,Quarters,2017/18 Q1,E23000034,"London, City of",54,Handling stolen goods
 10,Quarters,2017/18 Q1,E23000034,"London, City of",8L,Harassment
-2,Quarters,2017/18 Q1,E23000034,"London, City of",1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q1,E23000034,"London, City of",1-4.1-4.10-4.2,Homicide
 0,Quarters,2017/18 Q1,E23000034,"London, City of",23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000034,"London, City of",4.3,Intentional destruction of a viable unborn child
 8,Quarters,2017/18 Q1,E23000034,"London, City of",126,Interfering with a motor vehicle
@@ -3000,7 +3000,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 14,Quarters,2017/18 Q1,E23000004,Merseyside,33,"Going equipped for stealing, etc"
 16,Quarters,2017/18 Q1,E23000004,Merseyside,54,Handling stolen goods
 1235,Quarters,2017/18 Q1,E23000004,Merseyside,8L,Harassment
-10,Quarters,2017/18 Q1,E23000004,Merseyside,1/4.1/4.10/4.2,Homicide
+10,Quarters,2017/18 Q1,E23000004,Merseyside,1-4.1-4.10-4.2,Homicide
 2,Quarters,2017/18 Q1,E23000004,Merseyside,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000004,Merseyside,4.3,Intentional destruction of a viable unborn child
 374,Quarters,2017/18 Q1,E23000004,Merseyside,126,Interfering with a motor vehicle
@@ -3128,7 +3128,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 123,Quarters,2017/18 Q1,E23000001,Metropolitan Police,33,"Going equipped for stealing, etc"
 195,Quarters,2017/18 Q1,E23000001,Metropolitan Police,54,Handling stolen goods
 3501,Quarters,2017/18 Q1,E23000001,Metropolitan Police,8L,Harassment
-48,Quarters,2017/18 Q1,E23000001,Metropolitan Police,1/4.1/4.10/4.2,Homicide
+48,Quarters,2017/18 Q1,E23000001,Metropolitan Police,1-4.1-4.10-4.2,Homicide
 3,Quarters,2017/18 Q1,E23000001,Metropolitan Police,23,Incest or familial sexual offences
 2,Quarters,2017/18 Q1,E23000001,Metropolitan Police,4.3,Intentional destruction of a viable unborn child
 3517,Quarters,2017/18 Q1,E23000001,Metropolitan Police,126,Interfering with a motor vehicle
@@ -3256,7 +3256,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 18,Quarters,2017/18 Q1,E23000024,Norfolk,33,"Going equipped for stealing, etc"
 8,Quarters,2017/18 Q1,E23000024,Norfolk,54,Handling stolen goods
 310,Quarters,2017/18 Q1,E23000024,Norfolk,8L,Harassment
-4,Quarters,2017/18 Q1,E23000024,Norfolk,1/4.1/4.10/4.2,Homicide
+4,Quarters,2017/18 Q1,E23000024,Norfolk,1-4.1-4.10-4.2,Homicide
 3,Quarters,2017/18 Q1,E23000024,Norfolk,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000024,Norfolk,4.3,Intentional destruction of a viable unborn child
 76,Quarters,2017/18 Q1,E23000024,Norfolk,126,Interfering with a motor vehicle
@@ -3384,7 +3384,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 2,Quarters,2017/18 Q1,W15000001,North Wales,33,"Going equipped for stealing, etc"
 6,Quarters,2017/18 Q1,W15000001,North Wales,54,Handling stolen goods
 326,Quarters,2017/18 Q1,W15000001,North Wales,8L,Harassment
-5,Quarters,2017/18 Q1,W15000001,North Wales,1/4.1/4.10/4.2,Homicide
+5,Quarters,2017/18 Q1,W15000001,North Wales,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q1,W15000001,North Wales,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,W15000001,North Wales,4.3,Intentional destruction of a viable unborn child
 61,Quarters,2017/18 Q1,W15000001,North Wales,126,Interfering with a motor vehicle
@@ -3512,7 +3512,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 10,Quarters,2017/18 Q1,E23000009,North Yorkshire,33,"Going equipped for stealing, etc"
 9,Quarters,2017/18 Q1,E23000009,North Yorkshire,54,Handling stolen goods
 221,Quarters,2017/18 Q1,E23000009,North Yorkshire,8L,Harassment
-3,Quarters,2017/18 Q1,E23000009,North Yorkshire,1/4.1/4.10/4.2,Homicide
+3,Quarters,2017/18 Q1,E23000009,North Yorkshire,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q1,E23000009,North Yorkshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000009,North Yorkshire,4.3,Intentional destruction of a viable unborn child
 89,Quarters,2017/18 Q1,E23000009,North Yorkshire,126,Interfering with a motor vehicle
@@ -3640,7 +3640,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 8,Quarters,2017/18 Q1,E23000022,Northamptonshire,33,"Going equipped for stealing, etc"
 14,Quarters,2017/18 Q1,E23000022,Northamptonshire,54,Handling stolen goods
 218,Quarters,2017/18 Q1,E23000022,Northamptonshire,8L,Harassment
-1,Quarters,2017/18 Q1,E23000022,Northamptonshire,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q1,E23000022,Northamptonshire,1-4.1-4.10-4.2,Homicide
 7,Quarters,2017/18 Q1,E23000022,Northamptonshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000022,Northamptonshire,4.3,Intentional destruction of a viable unborn child
 271,Quarters,2017/18 Q1,E23000022,Northamptonshire,126,Interfering with a motor vehicle
@@ -3768,7 +3768,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 17,Quarters,2017/18 Q1,E23000007,Northumbria,33,"Going equipped for stealing, etc"
 19,Quarters,2017/18 Q1,E23000007,Northumbria,54,Handling stolen goods
 2419,Quarters,2017/18 Q1,E23000007,Northumbria,8L,Harassment
-5,Quarters,2017/18 Q1,E23000007,Northumbria,1/4.1/4.10/4.2,Homicide
+5,Quarters,2017/18 Q1,E23000007,Northumbria,1-4.1-4.10-4.2,Homicide
 2,Quarters,2017/18 Q1,E23000007,Northumbria,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000007,Northumbria,4.3,Intentional destruction of a viable unborn child
 232,Quarters,2017/18 Q1,E23000007,Northumbria,126,Interfering with a motor vehicle
@@ -3896,7 +3896,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 17,Quarters,2017/18 Q1,E23000019,Nottinghamshire,33,"Going equipped for stealing, etc"
 10,Quarters,2017/18 Q1,E23000019,Nottinghamshire,54,Handling stolen goods
 582,Quarters,2017/18 Q1,E23000019,Nottinghamshire,8L,Harassment
-4,Quarters,2017/18 Q1,E23000019,Nottinghamshire,1/4.1/4.10/4.2,Homicide
+4,Quarters,2017/18 Q1,E23000019,Nottinghamshire,1-4.1-4.10-4.2,Homicide
 13,Quarters,2017/18 Q1,E23000019,Nottinghamshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000019,Nottinghamshire,4.3,Intentional destruction of a viable unborn child
 259,Quarters,2017/18 Q1,E23000019,Nottinghamshire,126,Interfering with a motor vehicle
@@ -4024,7 +4024,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 14,Quarters,2017/18 Q1,W15000003,South Wales,33,"Going equipped for stealing, etc"
 36,Quarters,2017/18 Q1,W15000003,South Wales,54,Handling stolen goods
 864,Quarters,2017/18 Q1,W15000003,South Wales,8L,Harassment
-2,Quarters,2017/18 Q1,W15000003,South Wales,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q1,W15000003,South Wales,1-4.1-4.10-4.2,Homicide
 3,Quarters,2017/18 Q1,W15000003,South Wales,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,W15000003,South Wales,4.3,Intentional destruction of a viable unborn child
 224,Quarters,2017/18 Q1,W15000003,South Wales,126,Interfering with a motor vehicle
@@ -4152,7 +4152,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 9,Quarters,2017/18 Q1,E23000011,South Yorkshire,33,"Going equipped for stealing, etc"
 17,Quarters,2017/18 Q1,E23000011,South Yorkshire,54,Handling stolen goods
 1251,Quarters,2017/18 Q1,E23000011,South Yorkshire,8L,Harassment
-3,Quarters,2017/18 Q1,E23000011,South Yorkshire,1/4.1/4.10/4.2,Homicide
+3,Quarters,2017/18 Q1,E23000011,South Yorkshire,1-4.1-4.10-4.2,Homicide
 3,Quarters,2017/18 Q1,E23000011,South Yorkshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000011,South Yorkshire,4.3,Intentional destruction of a viable unborn child
 741,Quarters,2017/18 Q1,E23000011,South Yorkshire,126,Interfering with a motor vehicle
@@ -4280,7 +4280,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 5,Quarters,2017/18 Q1,E23000015,Staffordshire,33,"Going equipped for stealing, etc"
 18,Quarters,2017/18 Q1,E23000015,Staffordshire,54,Handling stolen goods
 507,Quarters,2017/18 Q1,E23000015,Staffordshire,8L,Harassment
-2,Quarters,2017/18 Q1,E23000015,Staffordshire,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q1,E23000015,Staffordshire,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q1,E23000015,Staffordshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000015,Staffordshire,4.3,Intentional destruction of a viable unborn child
 178,Quarters,2017/18 Q1,E23000015,Staffordshire,126,Interfering with a motor vehicle
@@ -4408,7 +4408,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 5,Quarters,2017/18 Q1,E23000025,Suffolk,33,"Going equipped for stealing, etc"
 13,Quarters,2017/18 Q1,E23000025,Suffolk,54,Handling stolen goods
 420,Quarters,2017/18 Q1,E23000025,Suffolk,8L,Harassment
-0,Quarters,2017/18 Q1,E23000025,Suffolk,1/4.1/4.10/4.2,Homicide
+0,Quarters,2017/18 Q1,E23000025,Suffolk,1-4.1-4.10-4.2,Homicide
 4,Quarters,2017/18 Q1,E23000025,Suffolk,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000025,Suffolk,4.3,Intentional destruction of a viable unborn child
 105,Quarters,2017/18 Q1,E23000025,Suffolk,126,Interfering with a motor vehicle
@@ -4536,7 +4536,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 8,Quarters,2017/18 Q1,E23000031,Surrey,33,"Going equipped for stealing, etc"
 9,Quarters,2017/18 Q1,E23000031,Surrey,54,Handling stolen goods
 331,Quarters,2017/18 Q1,E23000031,Surrey,8L,Harassment
-2,Quarters,2017/18 Q1,E23000031,Surrey,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q1,E23000031,Surrey,1-4.1-4.10-4.2,Homicide
 3,Quarters,2017/18 Q1,E23000031,Surrey,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000031,Surrey,4.3,Intentional destruction of a viable unborn child
 165,Quarters,2017/18 Q1,E23000031,Surrey,126,Interfering with a motor vehicle
@@ -4664,7 +4664,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 6,Quarters,2017/18 Q1,E23000033,Sussex,33,"Going equipped for stealing, etc"
 27,Quarters,2017/18 Q1,E23000033,Sussex,54,Handling stolen goods
 682,Quarters,2017/18 Q1,E23000033,Sussex,8L,Harassment
-2,Quarters,2017/18 Q1,E23000033,Sussex,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q1,E23000033,Sussex,1-4.1-4.10-4.2,Homicide
 8,Quarters,2017/18 Q1,E23000033,Sussex,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000033,Sussex,4.3,Intentional destruction of a viable unborn child
 193,Quarters,2017/18 Q1,E23000033,Sussex,126,Interfering with a motor vehicle
@@ -4792,7 +4792,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 26,Quarters,2017/18 Q1,E23000029,Thames Valley,33,"Going equipped for stealing, etc"
 49,Quarters,2017/18 Q1,E23000029,Thames Valley,54,Handling stolen goods
 667,Quarters,2017/18 Q1,E23000029,Thames Valley,8L,Harassment
-3,Quarters,2017/18 Q1,E23000029,Thames Valley,1/4.1/4.10/4.2,Homicide
+3,Quarters,2017/18 Q1,E23000029,Thames Valley,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q1,E23000029,Thames Valley,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000029,Thames Valley,4.3,Intentional destruction of a viable unborn child
 360,Quarters,2017/18 Q1,E23000029,Thames Valley,126,Interfering with a motor vehicle
@@ -4920,7 +4920,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 6,Quarters,2017/18 Q1,E23000017,Warwickshire,33,"Going equipped for stealing, etc"
 8,Quarters,2017/18 Q1,E23000017,Warwickshire,54,Handling stolen goods
 183,Quarters,2017/18 Q1,E23000017,Warwickshire,8L,Harassment
-3,Quarters,2017/18 Q1,E23000017,Warwickshire,1/4.1/4.10/4.2,Homicide
+3,Quarters,2017/18 Q1,E23000017,Warwickshire,1-4.1-4.10-4.2,Homicide
 2,Quarters,2017/18 Q1,E23000017,Warwickshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000017,Warwickshire,4.3,Intentional destruction of a viable unborn child
 170,Quarters,2017/18 Q1,E23000017,Warwickshire,126,Interfering with a motor vehicle
@@ -5048,7 +5048,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 10,Quarters,2017/18 Q1,E23000016,West Mercia,33,"Going equipped for stealing, etc"
 29,Quarters,2017/18 Q1,E23000016,West Mercia,54,Handling stolen goods
 466,Quarters,2017/18 Q1,E23000016,West Mercia,8L,Harassment
-3,Quarters,2017/18 Q1,E23000016,West Mercia,1/4.1/4.10/4.2,Homicide
+3,Quarters,2017/18 Q1,E23000016,West Mercia,1-4.1-4.10-4.2,Homicide
 5,Quarters,2017/18 Q1,E23000016,West Mercia,23,Incest or familial sexual offences
 1,Quarters,2017/18 Q1,E23000016,West Mercia,4.3,Intentional destruction of a viable unborn child
 159,Quarters,2017/18 Q1,E23000016,West Mercia,126,Interfering with a motor vehicle
@@ -5176,7 +5176,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 19,Quarters,2017/18 Q1,E23000014,West Midlands,33,"Going equipped for stealing, etc"
 37,Quarters,2017/18 Q1,E23000014,West Midlands,54,Handling stolen goods
 892,Quarters,2017/18 Q1,E23000014,West Midlands,8L,Harassment
-7,Quarters,2017/18 Q1,E23000014,West Midlands,1/4.1/4.10/4.2,Homicide
+7,Quarters,2017/18 Q1,E23000014,West Midlands,1-4.1-4.10-4.2,Homicide
 2,Quarters,2017/18 Q1,E23000014,West Midlands,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000014,West Midlands,4.3,Intentional destruction of a viable unborn child
 1238,Quarters,2017/18 Q1,E23000014,West Midlands,126,Interfering with a motor vehicle
@@ -5304,7 +5304,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 72,Quarters,2017/18 Q1,E23000010,West Yorkshire,33,"Going equipped for stealing, etc"
 50,Quarters,2017/18 Q1,E23000010,West Yorkshire,54,Handling stolen goods
 1583,Quarters,2017/18 Q1,E23000010,West Yorkshire,8L,Harassment
-5,Quarters,2017/18 Q1,E23000010,West Yorkshire,1/4.1/4.10/4.2,Homicide
+5,Quarters,2017/18 Q1,E23000010,West Yorkshire,1-4.1-4.10-4.2,Homicide
 12,Quarters,2017/18 Q1,E23000010,West Yorkshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000010,West Yorkshire,4.3,Intentional destruction of a viable unborn child
 964,Quarters,2017/18 Q1,E23000010,West Yorkshire,126,Interfering with a motor vehicle
@@ -5432,7 +5432,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 3,Quarters,2017/18 Q1,E23000038,Wiltshire,33,"Going equipped for stealing, etc"
 6,Quarters,2017/18 Q1,E23000038,Wiltshire,54,Handling stolen goods
 167,Quarters,2017/18 Q1,E23000038,Wiltshire,8L,Harassment
-2,Quarters,2017/18 Q1,E23000038,Wiltshire,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q1,E23000038,Wiltshire,1-4.1-4.10-4.2,Homicide
 17,Quarters,2017/18 Q1,E23000038,Wiltshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q1,E23000038,Wiltshire,4.3,Intentional destruction of a viable unborn child
 121,Quarters,2017/18 Q1,E23000038,Wiltshire,126,Interfering with a motor vehicle
@@ -5560,7 +5560,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 19,Quarters,2017/18 Q2,E23000036,Avon and Somerset,33,"Going equipped for stealing, etc"
 18,Quarters,2017/18 Q2,E23000036,Avon and Somerset,54,Handling stolen goods
 1063,Quarters,2017/18 Q2,E23000036,Avon and Somerset,8L,Harassment
-3,Quarters,2017/18 Q2,E23000036,Avon and Somerset,1/4.1/4.10/4.2,Homicide
+3,Quarters,2017/18 Q2,E23000036,Avon and Somerset,1-4.1-4.10-4.2,Homicide
 9,Quarters,2017/18 Q2,E23000036,Avon and Somerset,23,Incest or familial sexual offences
 -1,Quarters,2017/18 Q2,E23000036,Avon and Somerset,4.3,Intentional destruction of a viable unborn child
 431,Quarters,2017/18 Q2,E23000036,Avon and Somerset,126,Interfering with a motor vehicle
@@ -5688,7 +5688,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 0,Quarters,2017/18 Q2,E23000026,Bedfordshire,33,"Going equipped for stealing, etc"
 8,Quarters,2017/18 Q2,E23000026,Bedfordshire,54,Handling stolen goods
 475,Quarters,2017/18 Q2,E23000026,Bedfordshire,8L,Harassment
-1,Quarters,2017/18 Q2,E23000026,Bedfordshire,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q2,E23000026,Bedfordshire,1-4.1-4.10-4.2,Homicide
 0,Quarters,2017/18 Q2,E23000026,Bedfordshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000026,Bedfordshire,4.3,Intentional destruction of a viable unborn child
 141,Quarters,2017/18 Q2,E23000026,Bedfordshire,126,Interfering with a motor vehicle
@@ -5816,7 +5816,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 8,Quarters,2017/18 Q2,E23000023,Cambridgeshire,33,"Going equipped for stealing, etc"
 21,Quarters,2017/18 Q2,E23000023,Cambridgeshire,54,Handling stolen goods
 373,Quarters,2017/18 Q2,E23000023,Cambridgeshire,8L,Harassment
-1,Quarters,2017/18 Q2,E23000023,Cambridgeshire,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q2,E23000023,Cambridgeshire,1-4.1-4.10-4.2,Homicide
 8,Quarters,2017/18 Q2,E23000023,Cambridgeshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000023,Cambridgeshire,4.3,Intentional destruction of a viable unborn child
 104,Quarters,2017/18 Q2,E23000023,Cambridgeshire,126,Interfering with a motor vehicle
@@ -5944,7 +5944,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 23,Quarters,2017/18 Q2,E23000006,Cheshire,33,"Going equipped for stealing, etc"
 13,Quarters,2017/18 Q2,E23000006,Cheshire,54,Handling stolen goods
 735,Quarters,2017/18 Q2,E23000006,Cheshire,8L,Harassment
-2,Quarters,2017/18 Q2,E23000006,Cheshire,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q2,E23000006,Cheshire,1-4.1-4.10-4.2,Homicide
 3,Quarters,2017/18 Q2,E23000006,Cheshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000006,Cheshire,4.3,Intentional destruction of a viable unborn child
 132,Quarters,2017/18 Q2,E23000006,Cheshire,126,Interfering with a motor vehicle
@@ -6072,7 +6072,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 8,Quarters,2017/18 Q2,E23000013,Cleveland,33,"Going equipped for stealing, etc"
 14,Quarters,2017/18 Q2,E23000013,Cleveland,54,Handling stolen goods
 223,Quarters,2017/18 Q2,E23000013,Cleveland,8L,Harassment
-0,Quarters,2017/18 Q2,E23000013,Cleveland,1/4.1/4.10/4.2,Homicide
+0,Quarters,2017/18 Q2,E23000013,Cleveland,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q2,E23000013,Cleveland,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000013,Cleveland,4.3,Intentional destruction of a viable unborn child
 244,Quarters,2017/18 Q2,E23000013,Cleveland,126,Interfering with a motor vehicle
@@ -6200,7 +6200,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 3,Quarters,2017/18 Q2,E23000002,Cumbria,33,"Going equipped for stealing, etc"
 3,Quarters,2017/18 Q2,E23000002,Cumbria,54,Handling stolen goods
 137,Quarters,2017/18 Q2,E23000002,Cumbria,8L,Harassment
-1,Quarters,2017/18 Q2,E23000002,Cumbria,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q2,E23000002,Cumbria,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q2,E23000002,Cumbria,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000002,Cumbria,4.3,Intentional destruction of a viable unborn child
 41,Quarters,2017/18 Q2,E23000002,Cumbria,126,Interfering with a motor vehicle
@@ -6328,7 +6328,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 8,Quarters,2017/18 Q2,E23000018,Derbyshire,33,"Going equipped for stealing, etc"
 17,Quarters,2017/18 Q2,E23000018,Derbyshire,54,Handling stolen goods
 225,Quarters,2017/18 Q2,E23000018,Derbyshire,8L,Harassment
-4,Quarters,2017/18 Q2,E23000018,Derbyshire,1/4.1/4.10/4.2,Homicide
+4,Quarters,2017/18 Q2,E23000018,Derbyshire,1-4.1-4.10-4.2,Homicide
 5,Quarters,2017/18 Q2,E23000018,Derbyshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000018,Derbyshire,4.3,Intentional destruction of a viable unborn child
 276,Quarters,2017/18 Q2,E23000018,Derbyshire,126,Interfering with a motor vehicle
@@ -6456,7 +6456,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 13,Quarters,2017/18 Q2,E23000035,Devon and Cornwall,33,"Going equipped for stealing, etc"
 20,Quarters,2017/18 Q2,E23000035,Devon and Cornwall,54,Handling stolen goods
 776,Quarters,2017/18 Q2,E23000035,Devon and Cornwall,8L,Harassment
-1,Quarters,2017/18 Q2,E23000035,Devon and Cornwall,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q2,E23000035,Devon and Cornwall,1-4.1-4.10-4.2,Homicide
 -5,Quarters,2017/18 Q2,E23000035,Devon and Cornwall,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000035,Devon and Cornwall,4.3,Intentional destruction of a viable unborn child
 185,Quarters,2017/18 Q2,E23000035,Devon and Cornwall,126,Interfering with a motor vehicle
@@ -6584,7 +6584,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 8,Quarters,2017/18 Q2,E23000039,Dorset,33,"Going equipped for stealing, etc"
 7,Quarters,2017/18 Q2,E23000039,Dorset,54,Handling stolen goods
 472,Quarters,2017/18 Q2,E23000039,Dorset,8L,Harassment
-1,Quarters,2017/18 Q2,E23000039,Dorset,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q2,E23000039,Dorset,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q2,E23000039,Dorset,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000039,Dorset,4.3,Intentional destruction of a viable unborn child
 54,Quarters,2017/18 Q2,E23000039,Dorset,126,Interfering with a motor vehicle
@@ -6712,7 +6712,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 10,Quarters,2017/18 Q2,E23000008,Durham,33,"Going equipped for stealing, etc"
 16,Quarters,2017/18 Q2,E23000008,Durham,54,Handling stolen goods
 1457,Quarters,2017/18 Q2,E23000008,Durham,8L,Harassment
-1,Quarters,2017/18 Q2,E23000008,Durham,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q2,E23000008,Durham,1-4.1-4.10-4.2,Homicide
 6,Quarters,2017/18 Q2,E23000008,Durham,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000008,Durham,4.3,Intentional destruction of a viable unborn child
 136,Quarters,2017/18 Q2,E23000008,Durham,126,Interfering with a motor vehicle
@@ -6840,7 +6840,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 3,Quarters,2017/18 Q2,W15000004,Dyfed-Powys,33,"Going equipped for stealing, etc"
 2,Quarters,2017/18 Q2,W15000004,Dyfed-Powys,54,Handling stolen goods
 464,Quarters,2017/18 Q2,W15000004,Dyfed-Powys,8L,Harassment
-0,Quarters,2017/18 Q2,W15000004,Dyfed-Powys,1/4.1/4.10/4.2,Homicide
+0,Quarters,2017/18 Q2,W15000004,Dyfed-Powys,1-4.1-4.10-4.2,Homicide
 0,Quarters,2017/18 Q2,W15000004,Dyfed-Powys,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,W15000004,Dyfed-Powys,4.3,Intentional destruction of a viable unborn child
 32,Quarters,2017/18 Q2,W15000004,Dyfed-Powys,126,Interfering with a motor vehicle
@@ -6968,7 +6968,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 7,Quarters,2017/18 Q2,E23000028,Essex,33,"Going equipped for stealing, etc"
 25,Quarters,2017/18 Q2,E23000028,Essex,54,Handling stolen goods
 979,Quarters,2017/18 Q2,E23000028,Essex,8L,Harassment
-8,Quarters,2017/18 Q2,E23000028,Essex,1/4.1/4.10/4.2,Homicide
+8,Quarters,2017/18 Q2,E23000028,Essex,1-4.1-4.10-4.2,Homicide
 8,Quarters,2017/18 Q2,E23000028,Essex,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000028,Essex,4.3,Intentional destruction of a viable unborn child
 463,Quarters,2017/18 Q2,E23000028,Essex,126,Interfering with a motor vehicle
@@ -7096,7 +7096,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 1,Quarters,2017/18 Q2,E23000037,Gloucestershire,33,"Going equipped for stealing, etc"
 12,Quarters,2017/18 Q2,E23000037,Gloucestershire,54,Handling stolen goods
 198,Quarters,2017/18 Q2,E23000037,Gloucestershire,8L,Harassment
-0,Quarters,2017/18 Q2,E23000037,Gloucestershire,1/4.1/4.10/4.2,Homicide
+0,Quarters,2017/18 Q2,E23000037,Gloucestershire,1-4.1-4.10-4.2,Homicide
 6,Quarters,2017/18 Q2,E23000037,Gloucestershire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000037,Gloucestershire,4.3,Intentional destruction of a viable unborn child
 245,Quarters,2017/18 Q2,E23000037,Gloucestershire,126,Interfering with a motor vehicle
@@ -7224,7 +7224,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 28,Quarters,2017/18 Q2,E23000005,Greater Manchester,33,"Going equipped for stealing, etc"
 25,Quarters,2017/18 Q2,E23000005,Greater Manchester,54,Handling stolen goods
 1965,Quarters,2017/18 Q2,E23000005,Greater Manchester,8L,Harassment
-18,Quarters,2017/18 Q2,E23000005,Greater Manchester,1/4.1/4.10/4.2,Homicide
+18,Quarters,2017/18 Q2,E23000005,Greater Manchester,1-4.1-4.10-4.2,Homicide
 9,Quarters,2017/18 Q2,E23000005,Greater Manchester,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000005,Greater Manchester,4.3,Intentional destruction of a viable unborn child
 1089,Quarters,2017/18 Q2,E23000005,Greater Manchester,126,Interfering with a motor vehicle
@@ -7352,7 +7352,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 8,Quarters,2017/18 Q2,W15000002,Gwent,33,"Going equipped for stealing, etc"
 3,Quarters,2017/18 Q2,W15000002,Gwent,54,Handling stolen goods
 263,Quarters,2017/18 Q2,W15000002,Gwent,8L,Harassment
-1,Quarters,2017/18 Q2,W15000002,Gwent,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q2,W15000002,Gwent,1-4.1-4.10-4.2,Homicide
 3,Quarters,2017/18 Q2,W15000002,Gwent,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,W15000002,Gwent,4.3,Intentional destruction of a viable unborn child
 113,Quarters,2017/18 Q2,W15000002,Gwent,126,Interfering with a motor vehicle
@@ -7480,7 +7480,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 14,Quarters,2017/18 Q2,E23000030,Hampshire,33,"Going equipped for stealing, etc"
 49,Quarters,2017/18 Q2,E23000030,Hampshire,54,Handling stolen goods
 498,Quarters,2017/18 Q2,E23000030,Hampshire,8L,Harassment
-6,Quarters,2017/18 Q2,E23000030,Hampshire,1/4.1/4.10/4.2,Homicide
+6,Quarters,2017/18 Q2,E23000030,Hampshire,1-4.1-4.10-4.2,Homicide
 16,Quarters,2017/18 Q2,E23000030,Hampshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000030,Hampshire,4.3,Intentional destruction of a viable unborn child
 498,Quarters,2017/18 Q2,E23000030,Hampshire,126,Interfering with a motor vehicle
@@ -7608,7 +7608,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 15,Quarters,2017/18 Q2,E23000027,Hertfordshire,33,"Going equipped for stealing, etc"
 29,Quarters,2017/18 Q2,E23000027,Hertfordshire,54,Handling stolen goods
 311,Quarters,2017/18 Q2,E23000027,Hertfordshire,8L,Harassment
-3,Quarters,2017/18 Q2,E23000027,Hertfordshire,1/4.1/4.10/4.2,Homicide
+3,Quarters,2017/18 Q2,E23000027,Hertfordshire,1-4.1-4.10-4.2,Homicide
 3,Quarters,2017/18 Q2,E23000027,Hertfordshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000027,Hertfordshire,4.3,Intentional destruction of a viable unborn child
 311,Quarters,2017/18 Q2,E23000027,Hertfordshire,126,Interfering with a motor vehicle
@@ -7736,7 +7736,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 14,Quarters,2017/18 Q2,E23000012,Humberside,33,"Going equipped for stealing, etc"
 18,Quarters,2017/18 Q2,E23000012,Humberside,54,Handling stolen goods
 444,Quarters,2017/18 Q2,E23000012,Humberside,8L,Harassment
-5,Quarters,2017/18 Q2,E23000012,Humberside,1/4.1/4.10/4.2,Homicide
+5,Quarters,2017/18 Q2,E23000012,Humberside,1-4.1-4.10-4.2,Homicide
 6,Quarters,2017/18 Q2,E23000012,Humberside,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000012,Humberside,4.3,Intentional destruction of a viable unborn child
 239,Quarters,2017/18 Q2,E23000012,Humberside,126,Interfering with a motor vehicle
@@ -7864,7 +7864,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 14,Quarters,2017/18 Q2,E23000032,Kent,33,"Going equipped for stealing, etc"
 23,Quarters,2017/18 Q2,E23000032,Kent,54,Handling stolen goods
 1490,Quarters,2017/18 Q2,E23000032,Kent,8L,Harassment
-6,Quarters,2017/18 Q2,E23000032,Kent,1/4.1/4.10/4.2,Homicide
+6,Quarters,2017/18 Q2,E23000032,Kent,1-4.1-4.10-4.2,Homicide
 36,Quarters,2017/18 Q2,E23000032,Kent,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000032,Kent,4.3,Intentional destruction of a viable unborn child
 539,Quarters,2017/18 Q2,E23000032,Kent,126,Interfering with a motor vehicle
@@ -7992,7 +7992,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 9,Quarters,2017/18 Q2,E23000003,Lancashire,33,"Going equipped for stealing, etc"
 20,Quarters,2017/18 Q2,E23000003,Lancashire,54,Handling stolen goods
 1216,Quarters,2017/18 Q2,E23000003,Lancashire,8L,Harassment
-2,Quarters,2017/18 Q2,E23000003,Lancashire,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q2,E23000003,Lancashire,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q2,E23000003,Lancashire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000003,Lancashire,4.3,Intentional destruction of a viable unborn child
 360,Quarters,2017/18 Q2,E23000003,Lancashire,126,Interfering with a motor vehicle
@@ -8120,7 +8120,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 14,Quarters,2017/18 Q2,E23000021,Leicestershire,33,"Going equipped for stealing, etc"
 9,Quarters,2017/18 Q2,E23000021,Leicestershire,54,Handling stolen goods
 686,Quarters,2017/18 Q2,E23000021,Leicestershire,8L,Harassment
-1,Quarters,2017/18 Q2,E23000021,Leicestershire,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q2,E23000021,Leicestershire,1-4.1-4.10-4.2,Homicide
 14,Quarters,2017/18 Q2,E23000021,Leicestershire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000021,Leicestershire,4.3,Intentional destruction of a viable unborn child
 180,Quarters,2017/18 Q2,E23000021,Leicestershire,126,Interfering with a motor vehicle
@@ -8248,7 +8248,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 5,Quarters,2017/18 Q2,E23000020,Lincolnshire,33,"Going equipped for stealing, etc"
 10,Quarters,2017/18 Q2,E23000020,Lincolnshire,54,Handling stolen goods
 171,Quarters,2017/18 Q2,E23000020,Lincolnshire,8L,Harassment
-4,Quarters,2017/18 Q2,E23000020,Lincolnshire,1/4.1/4.10/4.2,Homicide
+4,Quarters,2017/18 Q2,E23000020,Lincolnshire,1-4.1-4.10-4.2,Homicide
 10,Quarters,2017/18 Q2,E23000020,Lincolnshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000020,Lincolnshire,4.3,Intentional destruction of a viable unborn child
 202,Quarters,2017/18 Q2,E23000020,Lincolnshire,126,Interfering with a motor vehicle
@@ -8376,7 +8376,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 1,Quarters,2017/18 Q2,E23000034,"London, City of",33,"Going equipped for stealing, etc"
 2,Quarters,2017/18 Q2,E23000034,"London, City of",54,Handling stolen goods
 22,Quarters,2017/18 Q2,E23000034,"London, City of",8L,Harassment
-0,Quarters,2017/18 Q2,E23000034,"London, City of",1/4.1/4.10/4.2,Homicide
+0,Quarters,2017/18 Q2,E23000034,"London, City of",1-4.1-4.10-4.2,Homicide
 0,Quarters,2017/18 Q2,E23000034,"London, City of",23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000034,"London, City of",4.3,Intentional destruction of a viable unborn child
 3,Quarters,2017/18 Q2,E23000034,"London, City of",126,Interfering with a motor vehicle
@@ -8504,7 +8504,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 22,Quarters,2017/18 Q2,E23000004,Merseyside,33,"Going equipped for stealing, etc"
 23,Quarters,2017/18 Q2,E23000004,Merseyside,54,Handling stolen goods
 1181,Quarters,2017/18 Q2,E23000004,Merseyside,8L,Harassment
-2,Quarters,2017/18 Q2,E23000004,Merseyside,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q2,E23000004,Merseyside,1-4.1-4.10-4.2,Homicide
 7,Quarters,2017/18 Q2,E23000004,Merseyside,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000004,Merseyside,4.3,Intentional destruction of a viable unborn child
 390,Quarters,2017/18 Q2,E23000004,Merseyside,126,Interfering with a motor vehicle
@@ -8632,7 +8632,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 148,Quarters,2017/18 Q2,E23000001,Metropolitan Police,33,"Going equipped for stealing, etc"
 200,Quarters,2017/18 Q2,E23000001,Metropolitan Police,54,Handling stolen goods
 3655,Quarters,2017/18 Q2,E23000001,Metropolitan Police,8L,Harassment
-26,Quarters,2017/18 Q2,E23000001,Metropolitan Police,1/4.1/4.10/4.2,Homicide
+26,Quarters,2017/18 Q2,E23000001,Metropolitan Police,1-4.1-4.10-4.2,Homicide
 9,Quarters,2017/18 Q2,E23000001,Metropolitan Police,23,Incest or familial sexual offences
 1,Quarters,2017/18 Q2,E23000001,Metropolitan Police,4.3,Intentional destruction of a viable unborn child
 3079,Quarters,2017/18 Q2,E23000001,Metropolitan Police,126,Interfering with a motor vehicle
@@ -8760,7 +8760,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 17,Quarters,2017/18 Q2,E23000024,Norfolk,33,"Going equipped for stealing, etc"
 12,Quarters,2017/18 Q2,E23000024,Norfolk,54,Handling stolen goods
 302,Quarters,2017/18 Q2,E23000024,Norfolk,8L,Harassment
-3,Quarters,2017/18 Q2,E23000024,Norfolk,1/4.1/4.10/4.2,Homicide
+3,Quarters,2017/18 Q2,E23000024,Norfolk,1-4.1-4.10-4.2,Homicide
 4,Quarters,2017/18 Q2,E23000024,Norfolk,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000024,Norfolk,4.3,Intentional destruction of a viable unborn child
 79,Quarters,2017/18 Q2,E23000024,Norfolk,126,Interfering with a motor vehicle
@@ -8888,7 +8888,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 2,Quarters,2017/18 Q2,W15000001,North Wales,33,"Going equipped for stealing, etc"
 8,Quarters,2017/18 Q2,W15000001,North Wales,54,Handling stolen goods
 559,Quarters,2017/18 Q2,W15000001,North Wales,8L,Harassment
-4,Quarters,2017/18 Q2,W15000001,North Wales,1/4.1/4.10/4.2,Homicide
+4,Quarters,2017/18 Q2,W15000001,North Wales,1-4.1-4.10-4.2,Homicide
 3,Quarters,2017/18 Q2,W15000001,North Wales,23,Incest or familial sexual offences
 1,Quarters,2017/18 Q2,W15000001,North Wales,4.3,Intentional destruction of a viable unborn child
 70,Quarters,2017/18 Q2,W15000001,North Wales,126,Interfering with a motor vehicle
@@ -9016,7 +9016,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 4,Quarters,2017/18 Q2,E23000009,North Yorkshire,33,"Going equipped for stealing, etc"
 4,Quarters,2017/18 Q2,E23000009,North Yorkshire,54,Handling stolen goods
 214,Quarters,2017/18 Q2,E23000009,North Yorkshire,8L,Harassment
-0,Quarters,2017/18 Q2,E23000009,North Yorkshire,1/4.1/4.10/4.2,Homicide
+0,Quarters,2017/18 Q2,E23000009,North Yorkshire,1-4.1-4.10-4.2,Homicide
 1,Quarters,2017/18 Q2,E23000009,North Yorkshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000009,North Yorkshire,4.3,Intentional destruction of a viable unborn child
 107,Quarters,2017/18 Q2,E23000009,North Yorkshire,126,Interfering with a motor vehicle
@@ -9144,7 +9144,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 5,Quarters,2017/18 Q2,E23000022,Northamptonshire,33,"Going equipped for stealing, etc"
 11,Quarters,2017/18 Q2,E23000022,Northamptonshire,54,Handling stolen goods
 169,Quarters,2017/18 Q2,E23000022,Northamptonshire,8L,Harassment
-0,Quarters,2017/18 Q2,E23000022,Northamptonshire,1/4.1/4.10/4.2,Homicide
+0,Quarters,2017/18 Q2,E23000022,Northamptonshire,1-4.1-4.10-4.2,Homicide
 6,Quarters,2017/18 Q2,E23000022,Northamptonshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000022,Northamptonshire,4.3,Intentional destruction of a viable unborn child
 285,Quarters,2017/18 Q2,E23000022,Northamptonshire,126,Interfering with a motor vehicle
@@ -9272,7 +9272,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 22,Quarters,2017/18 Q2,E23000007,Northumbria,33,"Going equipped for stealing, etc"
 29,Quarters,2017/18 Q2,E23000007,Northumbria,54,Handling stolen goods
 1385,Quarters,2017/18 Q2,E23000007,Northumbria,8L,Harassment
-5,Quarters,2017/18 Q2,E23000007,Northumbria,1/4.1/4.10/4.2,Homicide
+5,Quarters,2017/18 Q2,E23000007,Northumbria,1-4.1-4.10-4.2,Homicide
 2,Quarters,2017/18 Q2,E23000007,Northumbria,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000007,Northumbria,4.3,Intentional destruction of a viable unborn child
 300,Quarters,2017/18 Q2,E23000007,Northumbria,126,Interfering with a motor vehicle
@@ -9400,7 +9400,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 17,Quarters,2017/18 Q2,E23000019,Nottinghamshire,33,"Going equipped for stealing, etc"
 7,Quarters,2017/18 Q2,E23000019,Nottinghamshire,54,Handling stolen goods
 625,Quarters,2017/18 Q2,E23000019,Nottinghamshire,8L,Harassment
-2,Quarters,2017/18 Q2,E23000019,Nottinghamshire,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q2,E23000019,Nottinghamshire,1-4.1-4.10-4.2,Homicide
 13,Quarters,2017/18 Q2,E23000019,Nottinghamshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000019,Nottinghamshire,4.3,Intentional destruction of a viable unborn child
 283,Quarters,2017/18 Q2,E23000019,Nottinghamshire,126,Interfering with a motor vehicle
@@ -9528,7 +9528,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 12,Quarters,2017/18 Q2,W15000003,South Wales,33,"Going equipped for stealing, etc"
 21,Quarters,2017/18 Q2,W15000003,South Wales,54,Handling stolen goods
 917,Quarters,2017/18 Q2,W15000003,South Wales,8L,Harassment
-4,Quarters,2017/18 Q2,W15000003,South Wales,1/4.1/4.10/4.2,Homicide
+4,Quarters,2017/18 Q2,W15000003,South Wales,1-4.1-4.10-4.2,Homicide
 7,Quarters,2017/18 Q2,W15000003,South Wales,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,W15000003,South Wales,4.3,Intentional destruction of a viable unborn child
 241,Quarters,2017/18 Q2,W15000003,South Wales,126,Interfering with a motor vehicle
@@ -9656,7 +9656,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 9,Quarters,2017/18 Q2,E23000011,South Yorkshire,33,"Going equipped for stealing, etc"
 35,Quarters,2017/18 Q2,E23000011,South Yorkshire,54,Handling stolen goods
 1585,Quarters,2017/18 Q2,E23000011,South Yorkshire,8L,Harassment
-1,Quarters,2017/18 Q2,E23000011,South Yorkshire,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q2,E23000011,South Yorkshire,1-4.1-4.10-4.2,Homicide
 2,Quarters,2017/18 Q2,E23000011,South Yorkshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000011,South Yorkshire,4.3,Intentional destruction of a viable unborn child
 732,Quarters,2017/18 Q2,E23000011,South Yorkshire,126,Interfering with a motor vehicle
@@ -9784,7 +9784,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 7,Quarters,2017/18 Q2,E23000015,Staffordshire,33,"Going equipped for stealing, etc"
 12,Quarters,2017/18 Q2,E23000015,Staffordshire,54,Handling stolen goods
 654,Quarters,2017/18 Q2,E23000015,Staffordshire,8L,Harassment
-2,Quarters,2017/18 Q2,E23000015,Staffordshire,1/4.1/4.10/4.2,Homicide
+2,Quarters,2017/18 Q2,E23000015,Staffordshire,1-4.1-4.10-4.2,Homicide
 2,Quarters,2017/18 Q2,E23000015,Staffordshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000015,Staffordshire,4.3,Intentional destruction of a viable unborn child
 193,Quarters,2017/18 Q2,E23000015,Staffordshire,126,Interfering with a motor vehicle
@@ -9912,7 +9912,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 6,Quarters,2017/18 Q2,E23000025,Suffolk,33,"Going equipped for stealing, etc"
 16,Quarters,2017/18 Q2,E23000025,Suffolk,54,Handling stolen goods
 392,Quarters,2017/18 Q2,E23000025,Suffolk,8L,Harassment
-1,Quarters,2017/18 Q2,E23000025,Suffolk,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q2,E23000025,Suffolk,1-4.1-4.10-4.2,Homicide
 4,Quarters,2017/18 Q2,E23000025,Suffolk,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000025,Suffolk,4.3,Intentional destruction of a viable unborn child
 130,Quarters,2017/18 Q2,E23000025,Suffolk,126,Interfering with a motor vehicle
@@ -10040,7 +10040,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 10,Quarters,2017/18 Q2,E23000031,Surrey,33,"Going equipped for stealing, etc"
 21,Quarters,2017/18 Q2,E23000031,Surrey,54,Handling stolen goods
 311,Quarters,2017/18 Q2,E23000031,Surrey,8L,Harassment
-1,Quarters,2017/18 Q2,E23000031,Surrey,1/4.1/4.10/4.2,Homicide
+1,Quarters,2017/18 Q2,E23000031,Surrey,1-4.1-4.10-4.2,Homicide
 3,Quarters,2017/18 Q2,E23000031,Surrey,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000031,Surrey,4.3,Intentional destruction of a viable unborn child
 153,Quarters,2017/18 Q2,E23000031,Surrey,126,Interfering with a motor vehicle
@@ -10168,7 +10168,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 9,Quarters,2017/18 Q2,E23000033,Sussex,33,"Going equipped for stealing, etc"
 15,Quarters,2017/18 Q2,E23000033,Sussex,54,Handling stolen goods
 716,Quarters,2017/18 Q2,E23000033,Sussex,8L,Harassment
-5,Quarters,2017/18 Q2,E23000033,Sussex,1/4.1/4.10/4.2,Homicide
+5,Quarters,2017/18 Q2,E23000033,Sussex,1-4.1-4.10-4.2,Homicide
 5,Quarters,2017/18 Q2,E23000033,Sussex,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000033,Sussex,4.3,Intentional destruction of a viable unborn child
 245,Quarters,2017/18 Q2,E23000033,Sussex,126,Interfering with a motor vehicle
@@ -10296,7 +10296,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 43,Quarters,2017/18 Q2,E23000029,Thames Valley,33,"Going equipped for stealing, etc"
 52,Quarters,2017/18 Q2,E23000029,Thames Valley,54,Handling stolen goods
 671,Quarters,2017/18 Q2,E23000029,Thames Valley,8L,Harassment
-4,Quarters,2017/18 Q2,E23000029,Thames Valley,1/4.1/4.10/4.2,Homicide
+4,Quarters,2017/18 Q2,E23000029,Thames Valley,1-4.1-4.10-4.2,Homicide
 2,Quarters,2017/18 Q2,E23000029,Thames Valley,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000029,Thames Valley,4.3,Intentional destruction of a viable unborn child
 413,Quarters,2017/18 Q2,E23000029,Thames Valley,126,Interfering with a motor vehicle
@@ -10424,7 +10424,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 6,Quarters,2017/18 Q2,E23000017,Warwickshire,33,"Going equipped for stealing, etc"
 8,Quarters,2017/18 Q2,E23000017,Warwickshire,54,Handling stolen goods
 192,Quarters,2017/18 Q2,E23000017,Warwickshire,8L,Harassment
-4,Quarters,2017/18 Q2,E23000017,Warwickshire,1/4.1/4.10/4.2,Homicide
+4,Quarters,2017/18 Q2,E23000017,Warwickshire,1-4.1-4.10-4.2,Homicide
 -2,Quarters,2017/18 Q2,E23000017,Warwickshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000017,Warwickshire,4.3,Intentional destruction of a viable unborn child
 262,Quarters,2017/18 Q2,E23000017,Warwickshire,126,Interfering with a motor vehicle
@@ -10552,7 +10552,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 11,Quarters,2017/18 Q2,E23000016,West Mercia,33,"Going equipped for stealing, etc"
 18,Quarters,2017/18 Q2,E23000016,West Mercia,54,Handling stolen goods
 495,Quarters,2017/18 Q2,E23000016,West Mercia,8L,Harassment
-6,Quarters,2017/18 Q2,E23000016,West Mercia,1/4.1/4.10/4.2,Homicide
+6,Quarters,2017/18 Q2,E23000016,West Mercia,1-4.1-4.10-4.2,Homicide
 2,Quarters,2017/18 Q2,E23000016,West Mercia,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000016,West Mercia,4.3,Intentional destruction of a viable unborn child
 262,Quarters,2017/18 Q2,E23000016,West Mercia,126,Interfering with a motor vehicle
@@ -10680,7 +10680,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 14,Quarters,2017/18 Q2,E23000014,West Midlands,33,"Going equipped for stealing, etc"
 33,Quarters,2017/18 Q2,E23000014,West Midlands,54,Handling stolen goods
 1035,Quarters,2017/18 Q2,E23000014,West Midlands,8L,Harassment
-15,Quarters,2017/18 Q2,E23000014,West Midlands,1/4.1/4.10/4.2,Homicide
+15,Quarters,2017/18 Q2,E23000014,West Midlands,1-4.1-4.10-4.2,Homicide
 8,Quarters,2017/18 Q2,E23000014,West Midlands,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000014,West Midlands,4.3,Intentional destruction of a viable unborn child
 1369,Quarters,2017/18 Q2,E23000014,West Midlands,126,Interfering with a motor vehicle
@@ -10808,7 +10808,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 75,Quarters,2017/18 Q2,E23000010,West Yorkshire,33,"Going equipped for stealing, etc"
 50,Quarters,2017/18 Q2,E23000010,West Yorkshire,54,Handling stolen goods
 1500,Quarters,2017/18 Q2,E23000010,West Yorkshire,8L,Harassment
-7,Quarters,2017/18 Q2,E23000010,West Yorkshire,1/4.1/4.10/4.2,Homicide
+7,Quarters,2017/18 Q2,E23000010,West Yorkshire,1-4.1-4.10-4.2,Homicide
 17,Quarters,2017/18 Q2,E23000010,West Yorkshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000010,West Yorkshire,4.3,Intentional destruction of a viable unborn child
 952,Quarters,2017/18 Q2,E23000010,West Yorkshire,126,Interfering with a motor vehicle
@@ -10936,7 +10936,7 @@ V4_0,Time_codelist,Time,Geography_codelist,Geography,Offence_codelist,Offence
 6,Quarters,2017/18 Q2,E23000038,Wiltshire,33,"Going equipped for stealing, etc"
 11,Quarters,2017/18 Q2,E23000038,Wiltshire,54,Handling stolen goods
 179,Quarters,2017/18 Q2,E23000038,Wiltshire,8L,Harassment
-0,Quarters,2017/18 Q2,E23000038,Wiltshire,1/4.1/4.10/4.2,Homicide
+0,Quarters,2017/18 Q2,E23000038,Wiltshire,1-4.1-4.10-4.2,Homicide
 -14,Quarters,2017/18 Q2,E23000038,Wiltshire,23,Incest or familial sexual offences
 0,Quarters,2017/18 Q2,E23000038,Wiltshire,4.3,Intentional destruction of a viable unborn child
 189,Quarters,2017/18 Q2,E23000038,Wiltshire,126,Interfering with a motor vehicle
