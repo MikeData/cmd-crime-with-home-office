@@ -32,6 +32,6 @@ Generates some rough codelist CL_ files but if changed make sure to keep in sync
 
 ### Inserting Parent Nodes
 
-If needed/deemed wise, you can (sub)total observations into the V4 file for parent observations. You can use the v4 file (FINANCE_ ... etc) and the heriarchy CSV with this tool to include them.
+If needed/deemed wise, you can insert (sub)total observations into the V4 file for data pints representing the parent codes in the heriarchy. You can use the v4 file (FINANCE_ ... etc) and the heriarchy CSV with this tool to insert them.
 https://github.com/ONS-OpenData/cmd-v4-hierarchy-parent-injector
 
